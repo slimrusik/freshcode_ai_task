@@ -1,0 +1,3 @@
+cd D:\Study2\Practice\ToDoList\server
+echo "node_modules/" > .gitignore
+echo "data/*.json" >> .gitignore

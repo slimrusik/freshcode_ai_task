@@ -1,0 +1,12 @@
+{
+  "name": "todo-list-advanced",
+  "version": "1.0.0",
+  "description": "ToDo List з backend на Express та зберіганням завдань у файлі сервера",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
